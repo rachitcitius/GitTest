@@ -1,5 +1,0 @@
-Tech
-C#, Web API
-SFTP, Web Services, SQL, XUNIT (Unit testing), Fluent Migrator for artifacts creation of DB migration, 
-Entity Framework extra, Efforts for database mocking using CSV(we have not used)
-Octopus for build management
